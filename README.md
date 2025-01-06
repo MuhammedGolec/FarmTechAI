@@ -10,10 +10,8 @@
 - FarmTechAI will not only better resource management and crop yields but also create a large collaborative farming community.
 
 
+[![Watch the video](https://www.youtube.com/watch?v=zzgyEjoX91g/maxresdefault.jpg)](https://www.youtube.com/watch?v=zzgyEjoX91g)
 
-[![Watch the video](https://www.youtube.com/watch?v=<VIDEO ID>)
-
-https://www.youtube.com/watch?v=zzgyEjoX91g
 
 ### How to use the application
 
