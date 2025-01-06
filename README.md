@@ -1,3 +1,14 @@
+# FarmTechAI
+
+##### *FarmTechAI: Artificial Intelligence based Modern Farmer Management System*
+
+### Features
+- FarmTechAI, the Farm Management Dashboard (FMD) has fully achieved the first set of goals, integrating emerging technologies like real-time data analytics, and machine learning to help make farmers decisions and operations way more effective.
+- Its user-friendly designs have made it be embraced by any farmer, even those that are not tech-savvy, in the process democratizing the use of agricultural tools.
+- FarmTechAI will not only better resource management and crop yields but also create a large collaborative farming community.
+
+### How to use the application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +79,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Warning
+The copyright of the shared work is reserved. Reference should be cite to the HealthCloud article for use in academic studies.
+
+### To cite (text)
+Murat Can Cardak, Muhammed Golec, and Sukhpal Singh Gill, FarmTechAI: Artificial Intelligence based Modern Farmer Management System, Emerging Smart Agricultural Practices Using Artificial Intelligence, Wiley Book, Ashish Kumar (Editor), Jai Prakash Verma (Editor), Rachna Jain (Editor) ISBN: 978-1-394-27424-6 May 2025 Wiley-IEEE Press 368 pages 2025.
+
+### To cite (.bib)
+TBA
+
