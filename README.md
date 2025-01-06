@@ -12,7 +12,6 @@
 
 [![Watch the video](https://www.youtube.com/watch?v=zzgyEjoX91g/maxresdefault.jpg)](https://www.youtube.com/watch?v=zzgyEjoX91g)
 
-
 ### How to use the application
 
 # Getting Started with Create React App
