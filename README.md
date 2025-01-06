@@ -87,7 +87,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### Warning
-The copyright of the shared work is reserved. Reference should be cite to the HealthCloud article for use in academic studies.
+The copyright of the shared work is reserved. Reference should be cite to the FarmTechAI article for use in academic studies.
 
 ### To cite (text)
 Murat Can Cardak, Muhammed Golec, and Sukhpal Singh Gill, FarmTechAI: Artificial Intelligence based Modern Farmer Management System, Emerging Smart Agricultural Practices Using Artificial Intelligence, Wiley Book, Ashish Kumar (Editor), Jai Prakash Verma (Editor), Rachna Jain (Editor) ISBN: 978-1-394-27424-6 May 2025 Wiley-IEEE Press 368 pages 2025.
