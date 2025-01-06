@@ -9,6 +9,8 @@
 - Its user-friendly designs have made it be embraced by any farmer, even those that are not tech-savvy, in the process democratizing the use of agricultural tools.
 - FarmTechAI will not only better resource management and crop yields but also create a large collaborative farming community.
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
 ### How to use the application
 
 # Getting Started with Create React App
