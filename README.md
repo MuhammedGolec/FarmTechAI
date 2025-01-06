@@ -2,6 +2,8 @@
 
 ##### *FarmTechAI: Artificial Intelligence based Modern Farmer Management System*
 
+<img src="https://github.com/MuhammedGolec/FarmTechAI/blob/main/FarmTechAI1.png" width=33%> 
+
 ### Features
 - FarmTechAI, the Farm Management Dashboard (FMD) has fully achieved the first set of goals, integrating emerging technologies like real-time data analytics, and machine learning to help make farmers decisions and operations way more effective.
 - Its user-friendly designs have made it be embraced by any farmer, even those that are not tech-savvy, in the process democratizing the use of agricultural tools.
