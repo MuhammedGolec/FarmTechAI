@@ -11,7 +11,7 @@
 
 
 
-[![Watch the video](https://www.youtube.com/watch?v=<VIDEO ID>))
+[![Watch the video](https://www.youtube.com/watch?v=<VIDEO ID>)
 
 https://www.youtube.com/watch?v=zzgyEjoX91g
 
