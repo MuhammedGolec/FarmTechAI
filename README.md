@@ -94,8 +94,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 The copyright of the shared work is reserved. Reference should be cite to the FarmTechAI article for use in academic studies.
 
 ### To cite (text)
-Murat Can Cardak, Muhammed Golec, and Sukhpal Singh Gill, FarmTechAI: Artificial Intelligence based Modern Farmer Management System, Emerging Smart Agricultural Practices Using Artificial Intelligence, Wiley Book, Ashish Kumar (Editor), Jai Prakash Verma (Editor), Rachna Jain (Editor) ISBN: 978-1-394-27424-6 May 2025 Wiley-IEEE Press 368 pages 2025.
+
+Cardak, Murat Can, Muhammed Golec, and Sukhpal Singh Gill. "FarmTechAI: Artificial Intelligence‐Based Modern Farmer Management System." Emerging Smart Agricultural Practices Using Artificial Intelligence (2025): 247-281.
 
 ### To cite (.bib)
-TBA
+@article{cardak2025farmtechai,
+  title={FarmTechAI: Artificial Intelligence-Based Modern Farmer Management System},
+  author={Cardak, Murat Can and Golec, Muhammed and Gill, Sukhpal Singh},
+  journal={Emerging Smart Agricultural Practices Using Artificial Intelligence},
+  pages={247--281},
+  year={2025},
+  publisher={Wiley Online Library}
+}
 
